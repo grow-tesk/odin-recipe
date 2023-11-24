@@ -1,3 +1,56 @@
 .title {
     font-family: 'Helvetica';
 }
+.page_tofu {
+    background-image: url(https://www.maangchi.com/wp-content/uploads/2020/04/dubugangjeong-insta-650x650.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-attachment: fixed;
+}
+.container {
+    position: absolute;
+    width: 100vw;
+}
+.heading {
+    position: sticky;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+#maangchi {
+    position: relative;
+    margin: 34px 42px 40px 13px;
+    outline: 3px solid yellow;
+    padding: 10px 5% 15px 15px; 
+    font-size: 5.6rem;
+    text-shadow: 3px 3px blue;
+    text-wrap: balance;
+}
+div.img_frame {
+    position: sticky;
+    margin-top: -8px;
+    top: 0;
+}
+h2, h3 {
+    font-family: 'Helvetica Neue';
+    font-weight: normal; 
+}
+h2 {
+    font-size: 34px;
+    border-bottom: 2px solid red;
+    padding-bottom: 9px;
+}
+h3 {
+    font-size: 23px
+}
+.content {
+    position: relative;
+    background: #FFFFFFcc;
+    color: blue;
+    margin: 47px 0px 0px -8px;
+    padding: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+p, ul, ol {
+    padding-right: 20%;
+}
+
